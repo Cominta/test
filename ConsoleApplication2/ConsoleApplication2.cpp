@@ -1,6 +1,7 @@
 ﻿#include <iostream>
 using namespace std;
 
+// Comment
 class SortStrategy {
 public:
     int* arr;
